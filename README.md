@@ -23,7 +23,3 @@ InsightNote is a Natural Language Processing (NLP) based tool designed to help s
 - NLTK (Natural Language Toolkit)  
 - Matplotlib (for visualization)  
 - PyPDF2 (for PDF processing)  
-
----
-
-## 📂 Project Structure
